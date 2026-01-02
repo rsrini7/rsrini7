@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Agentic AI**
 
-- 💬 Ask me about **Any Technology**
+- 💬 Keep on exploring **Latest Technologies**
 
 - 📫 How to reach me **7rsrini@gmail.com**
 
