@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/rsrini_7" target="blank"><img src="https://img.shields.io/twitter/follow/rsrini_7?logo=twitter&style=for-the-badge" alt="rsrini_7" /></a> </p>
 
-- 🔭 I’m currently working on Hackathon Project [Support Buddy](https://github.com/rsrini7/Support-Buddy)
+- 🔭 I’m currently working on Mermaid2GIF Project [Mermaid2GIF](https://github.com/rsrini7/mermaid2gif)
 
 - 🌱 I’m currently learning **Agentic AI**
 
