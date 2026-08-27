@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi 👋, I'm Srini<br>A passionate fullstack developer from India<br>
-🔭 I’m currently working on Mermaid2GIF Project Mermaid2GIF<br>🌱 I’m currently learning Agentic AI<br>💬 Keep on exploring Latest Technologies<br>📫 How to reach me 7rsrini@gmail.com
+🔭 I’m currently working on Private Harness Agent (soon will become Public)<br>🌱 I’m currently learning Agentic AI<br>💬 Keep on exploring Latest Technologies<br>📫 How to reach me 7rsrini@gmail.com
 
 
 ## 🌐 Socials:
